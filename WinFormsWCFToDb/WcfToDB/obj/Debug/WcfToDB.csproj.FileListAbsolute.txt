@@ -1,0 +1,7 @@
+D:\WCFWinform\WinFormsWCFToDb\WcfToDB\bin\Debug\WcfToDB.dll.config
+D:\WCFWinform\WinFormsWCFToDb\WcfToDB\bin\Debug\WcfToDB.dll
+D:\WCFWinform\WinFormsWCFToDb\WcfToDB\bin\Debug\WcfToDB.pdb
+D:\WCFWinform\WinFormsWCFToDb\WcfToDB\obj\Debug\WcfToDB.csproj.AssemblyReference.cache
+D:\WCFWinform\WinFormsWCFToDb\WcfToDB\obj\Debug\WcfToDB.csproj.CoreCompileInputs.cache
+D:\WCFWinform\WinFormsWCFToDb\WcfToDB\obj\Debug\WcfToDB.dll
+D:\WCFWinform\WinFormsWCFToDb\WcfToDB\obj\Debug\WcfToDB.pdb

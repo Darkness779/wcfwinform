@@ -1,0 +1,11 @@
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\bin\Debug\WinFormsWCFToDb.exe.config
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\bin\Debug\WinFormsWCFToDb.exe
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\bin\Debug\WinFormsWCFToDb.pdb
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\obj\Debug\WinFormsWCFToDb.csproj.AssemblyReference.cache
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\obj\Debug\WinFormsWCFToDb.csproj.SuggestedBindingRedirects.cache
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\obj\Debug\WinFormsWCFToDb.Form1.resources
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\obj\Debug\WinFormsWCFToDb.Properties.Resources.resources
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\obj\Debug\WinFormsWCFToDb.csproj.GenerateResource.cache
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\obj\Debug\WinFormsWCFToDb.csproj.CoreCompileInputs.cache
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\obj\Debug\WinFormsWCFToDb.exe
+D:\WCFWinform\WinFormsWCFToDb\WinFormsWCFToDb\obj\Debug\WinFormsWCFToDb.pdb
