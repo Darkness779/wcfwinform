@@ -25,8 +25,8 @@ namespace QLSV_1911060974_Hai
             p.Masv = Convert.ToInt32(txtMasv.Text);
             p.Tensv = txtTensv.Text;
             p.Hocphan = txtHocphan.Text;
-            p.Makhoa = Convert.ToInt32(txtMakhoa.Text);
-            p.Malop = Convert.ToInt32(txtMalop.Text);
+            p.Makhoa = txtMakhoa.Text;
+            p.Malop = txtMalop.Text;
 
             Service1Client service = new Service1Client();
             if (service.InsertClass1(p) == 1)
@@ -42,8 +42,8 @@ namespace QLSV_1911060974_Hai
                 Masv = Convert.ToInt32(txtMasv.Text),
                 Tensv = txtTensv.Text,
                 Hocphan = txtHocphan.Text,
-                Makhoa = Convert.ToInt32(txtMakhoa.Text),
-                Malop = Convert.ToInt32(txtMalop.Text),
+                Makhoa = txtMakhoa.Text,
+                Malop = txtMalop.Text,
         };
             Service1Client service = new Service1Client();
             if (service.UpdateClass1(p) == 1)

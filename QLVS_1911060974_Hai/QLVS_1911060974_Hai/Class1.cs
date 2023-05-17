@@ -17,8 +17,8 @@ namespace QLVS_1911060974_Hai
             [DataMember]
             public string Hocphan { get; set; }
             [DataMember]
-            public int Makhoa { get; set; }
+            public string Makhoa { get; set; }
             [DataMember]
-            public int Malop { get; set; }
+            public string Malop { get; set; }
     }
 }

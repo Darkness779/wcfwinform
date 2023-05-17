@@ -87,10 +87,10 @@ namespace QLSV_1911060974_Hai.ServiceReference1 {
         private string HocphanField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private int MakhoaField;
+        private string MakhoaField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private int MalopField;
+        private string MalopField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private int MasvField;
@@ -122,12 +122,12 @@ namespace QLSV_1911060974_Hai.ServiceReference1 {
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public int Makhoa {
+        public string Makhoa {
             get {
                 return this.MakhoaField;
             }
             set {
-                if ((this.MakhoaField.Equals(value) != true)) {
+                if ((object.ReferenceEquals(this.MakhoaField, value) != true)) {
                     this.MakhoaField = value;
                     this.RaisePropertyChanged("Makhoa");
                 }
@@ -135,12 +135,12 @@ namespace QLSV_1911060974_Hai.ServiceReference1 {
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public int Malop {
+        public string Malop {
             get {
                 return this.MalopField;
             }
             set {
-                if ((this.MalopField.Equals(value) != true)) {
+                if ((object.ReferenceEquals(this.MalopField, value) != true)) {
                     this.MalopField = value;
                     this.RaisePropertyChanged("Malop");
                 }

@@ -10,8 +10,8 @@
   <xs:complexType name="Class1">
     <xs:sequence>
       <xs:element minOccurs="0" name="Hocphan" nillable="true" type="xs:string" />
-      <xs:element minOccurs="0" name="Makhoa" type="xs:int" />
-      <xs:element minOccurs="0" name="Malop" type="xs:int" />
+      <xs:element minOccurs="0" name="Makhoa" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Malop" nillable="true" type="xs:string" />
       <xs:element minOccurs="0" name="Masv" type="xs:int" />
       <xs:element minOccurs="0" name="Tensv" nillable="true" type="xs:string" />
     </xs:sequence>

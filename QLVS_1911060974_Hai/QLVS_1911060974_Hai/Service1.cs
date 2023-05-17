@@ -26,7 +26,7 @@ namespace QLVS_1911060974_Hai
         {
             connStringBuilder = new SqlConnectionStringBuilder();
             connStringBuilder.DataSource = "LAPTOP-067SJILE\\SQLEXPRESS";
-            connStringBuilder.InitialCatalog = "QL_SV_1911060974";
+            connStringBuilder.InitialCatalog = "QLSV_1911060974";
             connStringBuilder.Encrypt = true;
             connStringBuilder.TrustServerCertificate = true;
             connStringBuilder.ConnectTimeout = 30;
@@ -153,8 +153,8 @@ namespace QLVS_1911060974_Hai
                     Class1.Masv = Convert.ToInt32(reader[0]);
                     Class1.Tensv = reader[1].ToString();
                     Class1.Hocphan = reader[2].ToString();
-                    Class1.Makhoa = Convert.ToInt32(reader[3]);
-                    Class1.Malop = Convert.ToInt32(reader[4]);
+                    Class1.Makhoa = reader[3].ToString();
+                    Class1.Malop = reader[4].ToString();
                 }
                 return Class1;
             }
@@ -187,8 +187,8 @@ namespace QLVS_1911060974_Hai
                         Masv = Convert.ToInt32(reader[0]),
                         Tensv = reader[1].ToString(),
                         Hocphan = reader[2].ToString(),
-                        Makhoa = Convert.ToInt32(reader[3]),
-                        Malop = Convert.ToInt32(reader[4]),
+                        Makhoa = reader[3].ToString(),
+                        Malop = reader[4].ToString(),
                     };
                     Class1L.Add(Class1);
                 }
