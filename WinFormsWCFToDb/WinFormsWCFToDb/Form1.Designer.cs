@@ -153,9 +153,9 @@
             this.btnSelectAll.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.73109F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSelectAll.Location = new System.Drawing.Point(175, 201);
             this.btnSelectAll.Name = "btnSelectAll";
-            this.btnSelectAll.Size = new System.Drawing.Size(107, 49);
+            this.btnSelectAll.Size = new System.Drawing.Size(164, 49);
             this.btnSelectAll.TabIndex = 11;
-            this.btnSelectAll.Text = "Select";
+            this.btnSelectAll.Text = "SelectAll";
             this.btnSelectAll.UseVisualStyleBackColor = true;
             this.btnSelectAll.Click += new System.EventHandler(this.btnSelectAll_Click);
             // 
