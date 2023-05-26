@@ -32,10 +32,10 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.themtt = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator = new System.Windows.Forms.ToolStripSeparator();
             this.suatt = new System.Windows.Forms.ToolStripButton();
             this.xoatt = new System.Windows.Forms.ToolStripButton();
             this.timkiem = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.danhsachsv = new System.Windows.Forms.ToolStripButton();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
@@ -50,6 +50,11 @@
             this.txtMakhoa = new System.Windows.Forms.TextBox();
             this.txtMalop = new System.Windows.Forms.TextBox();
             this.dgvQlsv = new System.Windows.Forms.DataGridView();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvQlsv)).BeginInit();
             this.SuspendLayout();
@@ -61,8 +66,8 @@
             this.themtt,
             this.suatt,
             this.xoatt,
-            this.timkiem,
             this.toolStripSeparator,
+            this.timkiem,
             this.toolStripSeparator1,
             this.danhsachsv});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
@@ -79,11 +84,6 @@
             this.themtt.Size = new System.Drawing.Size(90, 24);
             this.themtt.Text = "&Thêm TT";
             this.themtt.Click += new System.EventHandler(this.themtt_Click);
-            // 
-            // toolStripSeparator
-            // 
-            this.toolStripSeparator.Name = "toolStripSeparator";
-            this.toolStripSeparator.Size = new System.Drawing.Size(6, 27);
             // 
             // suatt
             // 
@@ -112,6 +112,11 @@
             this.timkiem.Text = "&Tìm Kiếm";
             this.timkiem.Click += new System.EventHandler(this.timkiem_Click);
             // 
+            // toolStripSeparator
+            // 
+            this.toolStripSeparator.Name = "toolStripSeparator";
+            this.toolStripSeparator.Size = new System.Drawing.Size(6, 27);
+            // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
@@ -135,7 +140,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(76, 56);
+            this.label1.Location = new System.Drawing.Point(76, 53);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(85, 16);
             this.label1.TabIndex = 2;
@@ -144,7 +149,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(76, 106);
+            this.label2.Location = new System.Drawing.Point(76, 109);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(70, 16);
             this.label2.TabIndex = 3;
@@ -153,7 +158,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(76, 163);
+            this.label3.Location = new System.Drawing.Point(76, 166);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(66, 16);
             this.label3.TabIndex = 4;
@@ -162,7 +167,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(357, 56);
+            this.label4.Location = new System.Drawing.Point(529, 53);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(38, 16);
             this.label4.TabIndex = 5;
@@ -171,7 +176,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(357, 106);
+            this.label5.Location = new System.Drawing.Point(529, 109);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(30, 16);
             this.label5.TabIndex = 6;
@@ -181,46 +186,93 @@
             // 
             this.txtMasv.Location = new System.Drawing.Point(178, 50);
             this.txtMasv.Name = "txtMasv";
-            this.txtMasv.Size = new System.Drawing.Size(100, 22);
+            this.txtMasv.Size = new System.Drawing.Size(226, 22);
             this.txtMasv.TabIndex = 7;
             // 
             // txtTensv
             // 
             this.txtTensv.Location = new System.Drawing.Point(178, 106);
             this.txtTensv.Name = "txtTensv";
-            this.txtTensv.Size = new System.Drawing.Size(100, 22);
+            this.txtTensv.Size = new System.Drawing.Size(226, 22);
             this.txtTensv.TabIndex = 8;
             // 
             // txtHocphan
             // 
             this.txtHocphan.Location = new System.Drawing.Point(178, 163);
             this.txtHocphan.Name = "txtHocphan";
-            this.txtHocphan.Size = new System.Drawing.Size(100, 22);
+            this.txtHocphan.Size = new System.Drawing.Size(226, 22);
             this.txtHocphan.TabIndex = 9;
             // 
             // txtMakhoa
             // 
-            this.txtMakhoa.Location = new System.Drawing.Point(412, 50);
+            this.txtMakhoa.Location = new System.Drawing.Point(580, 50);
             this.txtMakhoa.Name = "txtMakhoa";
-            this.txtMakhoa.Size = new System.Drawing.Size(100, 22);
+            this.txtMakhoa.Size = new System.Drawing.Size(144, 22);
             this.txtMakhoa.TabIndex = 10;
             // 
             // txtMalop
             // 
-            this.txtMalop.Location = new System.Drawing.Point(412, 106);
+            this.txtMalop.Location = new System.Drawing.Point(580, 106);
             this.txtMalop.Name = "txtMalop";
-            this.txtMalop.Size = new System.Drawing.Size(100, 22);
+            this.txtMalop.Size = new System.Drawing.Size(144, 22);
             this.txtMalop.TabIndex = 11;
             // 
             // dgvQlsv
             // 
             this.dgvQlsv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvQlsv.Location = new System.Drawing.Point(34, 213);
+            this.dgvQlsv.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Column1,
+            this.Column2,
+            this.Column3,
+            this.Column4,
+            this.Column5});
+            this.dgvQlsv.Location = new System.Drawing.Point(12, 213);
             this.dgvQlsv.Name = "dgvQlsv";
             this.dgvQlsv.RowHeadersWidth = 51;
             this.dgvQlsv.RowTemplate.Height = 24;
-            this.dgvQlsv.Size = new System.Drawing.Size(733, 225);
+            this.dgvQlsv.Size = new System.Drawing.Size(776, 225);
             this.dgvQlsv.TabIndex = 12;
+            this.dgvQlsv.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvQlsv_CellContentClick);
+            // 
+            // Column1
+            // 
+            this.Column1.DataPropertyName = "Masv";
+            this.Column1.HeaderText = "Mã sinh viên";
+            this.Column1.MinimumWidth = 6;
+            this.Column1.Name = "Column1";
+            this.Column1.Width = 124;
+            // 
+            // Column2
+            // 
+            this.Column2.DataPropertyName = "Tensv";
+            this.Column2.HeaderText = "Họ và Tên";
+            this.Column2.MinimumWidth = 6;
+            this.Column2.Name = "Column2";
+            this.Column2.Width = 200;
+            // 
+            // Column3
+            // 
+            this.Column3.DataPropertyName = "Hocphan";
+            this.Column3.HeaderText = "Học Phần";
+            this.Column3.MinimumWidth = 6;
+            this.Column3.Name = "Column3";
+            this.Column3.Width = 150;
+            // 
+            // Column4
+            // 
+            this.Column4.DataPropertyName = "Makhoa";
+            this.Column4.HeaderText = "Khoa";
+            this.Column4.MinimumWidth = 6;
+            this.Column4.Name = "Column4";
+            this.Column4.Width = 124;
+            // 
+            // Column5
+            // 
+            this.Column5.DataPropertyName = "Malop";
+            this.Column5.HeaderText = "Lớp";
+            this.Column5.MinimumWidth = 6;
+            this.Column5.Name = "Column5";
+            this.Column5.Width = 124;
             // 
             // Form1
             // 
@@ -271,6 +323,11 @@
         private System.Windows.Forms.TextBox txtMakhoa;
         private System.Windows.Forms.TextBox txtMalop;
         private System.Windows.Forms.DataGridView dgvQlsv;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
     }
 }
 

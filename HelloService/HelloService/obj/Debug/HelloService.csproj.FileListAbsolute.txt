@@ -1,0 +1,7 @@
+D:\WCFWinform\HelloService\HelloService\bin\Debug\HelloService.dll.config
+D:\WCFWinform\HelloService\HelloService\bin\Debug\HelloService.dll
+D:\WCFWinform\HelloService\HelloService\bin\Debug\HelloService.pdb
+D:\WCFWinform\HelloService\HelloService\obj\Debug\HelloService.csproj.AssemblyReference.cache
+D:\WCFWinform\HelloService\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+D:\WCFWinform\HelloService\HelloService\obj\Debug\HelloService.dll
+D:\WCFWinform\HelloService\HelloService\obj\Debug\HelloService.pdb

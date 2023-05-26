@@ -1,0 +1,11 @@
+D:\WCFWinform\HelloService\WindowsClient\bin\Debug\WindowsClient.exe.config
+D:\WCFWinform\HelloService\WindowsClient\bin\Debug\WindowsClient.exe
+D:\WCFWinform\HelloService\WindowsClient\bin\Debug\WindowsClient.pdb
+D:\WCFWinform\HelloService\WindowsClient\obj\Debug\WindowsClient.csproj.AssemblyReference.cache
+D:\WCFWinform\HelloService\WindowsClient\obj\Debug\WindowsClient.csproj.SuggestedBindingRedirects.cache
+D:\WCFWinform\HelloService\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+D:\WCFWinform\HelloService\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.cache
+D:\WCFWinform\HelloService\WindowsClient\obj\Debug\WindowsClient.csproj.CoreCompileInputs.cache
+D:\WCFWinform\HelloService\WindowsClient\obj\Debug\WindowsClient.exe
+D:\WCFWinform\HelloService\WindowsClient\obj\Debug\WindowsClient.pdb
+D:\WCFWinform\HelloService\WindowsClient\obj\Debug\WindowsClient.Form1.resources

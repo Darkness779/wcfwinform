@@ -1,0 +1,11 @@
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\bin\Debug\Hai_1911060974.exe.config
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\bin\Debug\Hai_1911060974.exe
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\bin\Debug\Hai_1911060974.pdb
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\obj\Debug\Hai_1911060974.csproj.AssemblyReference.cache
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\obj\Debug\Hai_1911060974.csproj.SuggestedBindingRedirects.cache
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\obj\Debug\Hai_1911060974.Form1.resources
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\obj\Debug\Hai_1911060974.Properties.Resources.resources
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\obj\Debug\Hai_1911060974.csproj.GenerateResource.cache
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\obj\Debug\Hai_1911060974.csproj.CoreCompileInputs.cache
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\obj\Debug\Hai_1911060974.exe
+D:\WCFWinform\Vu_Hai_1911060974\Hai_1911060974\obj\Debug\Hai_1911060974.pdb

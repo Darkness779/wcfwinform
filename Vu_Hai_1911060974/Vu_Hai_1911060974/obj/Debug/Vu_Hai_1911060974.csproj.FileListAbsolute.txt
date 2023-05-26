@@ -1,0 +1,7 @@
+D:\WCFWinform\Vu_Hai_1911060974\Vu_Hai_1911060974\bin\Debug\Vu_Hai_1911060974.dll.config
+D:\WCFWinform\Vu_Hai_1911060974\Vu_Hai_1911060974\bin\Debug\Vu_Hai_1911060974.dll
+D:\WCFWinform\Vu_Hai_1911060974\Vu_Hai_1911060974\bin\Debug\Vu_Hai_1911060974.pdb
+D:\WCFWinform\Vu_Hai_1911060974\Vu_Hai_1911060974\obj\Debug\Vu_Hai_1911060974.csproj.AssemblyReference.cache
+D:\WCFWinform\Vu_Hai_1911060974\Vu_Hai_1911060974\obj\Debug\Vu_Hai_1911060974.csproj.CoreCompileInputs.cache
+D:\WCFWinform\Vu_Hai_1911060974\Vu_Hai_1911060974\obj\Debug\Vu_Hai_1911060974.dll
+D:\WCFWinform\Vu_Hai_1911060974\Vu_Hai_1911060974\obj\Debug\Vu_Hai_1911060974.pdb

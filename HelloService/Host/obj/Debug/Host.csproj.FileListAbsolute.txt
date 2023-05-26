@@ -1,0 +1,12 @@
+D:\WCFWinform\HelloService\Host\bin\Debug\Host.exe.config
+D:\WCFWinform\HelloService\Host\bin\Debug\Host.exe
+D:\WCFWinform\HelloService\Host\bin\Debug\Host.pdb
+D:\WCFWinform\HelloService\Host\bin\Debug\HelloService.dll
+D:\WCFWinform\HelloService\Host\bin\Debug\HelloService.pdb
+D:\WCFWinform\HelloService\Host\bin\Debug\HelloService.dll.config
+D:\WCFWinform\HelloService\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\WCFWinform\HelloService\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\WCFWinform\HelloService\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\WCFWinform\HelloService\Host\obj\Debug\Host.csproj.CopyComplete
+D:\WCFWinform\HelloService\Host\obj\Debug\Host.exe
+D:\WCFWinform\HelloService\Host\obj\Debug\Host.pdb

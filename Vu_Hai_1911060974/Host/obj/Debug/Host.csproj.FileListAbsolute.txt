@@ -1,0 +1,12 @@
+D:\WCFWinform\Vu_Hai_1911060974\Host\bin\Debug\Host.exe.config
+D:\WCFWinform\Vu_Hai_1911060974\Host\bin\Debug\Host.exe
+D:\WCFWinform\Vu_Hai_1911060974\Host\bin\Debug\Host.pdb
+D:\WCFWinform\Vu_Hai_1911060974\Host\bin\Debug\Vu_Hai_1911060974.dll
+D:\WCFWinform\Vu_Hai_1911060974\Host\bin\Debug\Vu_Hai_1911060974.pdb
+D:\WCFWinform\Vu_Hai_1911060974\Host\bin\Debug\Vu_Hai_1911060974.dll.config
+D:\WCFWinform\Vu_Hai_1911060974\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\WCFWinform\Vu_Hai_1911060974\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\WCFWinform\Vu_Hai_1911060974\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\WCFWinform\Vu_Hai_1911060974\Host\obj\Debug\Host.csproj.CopyComplete
+D:\WCFWinform\Vu_Hai_1911060974\Host\obj\Debug\Host.exe
+D:\WCFWinform\Vu_Hai_1911060974\Host\obj\Debug\Host.pdb
